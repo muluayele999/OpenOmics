@@ -78,7 +78,7 @@ setup(
     extras_require={
             ':python_version == "2.7"': [
                 'six==1.10',
-                'lxml==4.3.5'
+                'lxml==4.9.1'
             ],
         },
     test_suite='tests',
